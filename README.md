@@ -2,7 +2,7 @@
 
 # Info
 
-    Crea nuevo usuario y añadelo al grupo sudo, sin complicaciones
+Crea nuevo usuario y añadelo al grupo sudo, sin complicaciones
 
 ## Instalacion y ejecucion:
 
