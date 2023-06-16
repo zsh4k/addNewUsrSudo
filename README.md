@@ -1,6 +1,6 @@
 # addNewUsrSudo
 
-# Info
+## Info
 
 Crea nuevo usuario y añadelo al grupo sudo, sin complicaciones
 
